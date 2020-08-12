@@ -1,0 +1,2 @@
+--nothing here yet :) rlly no point if your just making a simple job 
+--I will make a advanced job template soon be sure to stay up to date on my git :)
